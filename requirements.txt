@@ -1,6 +1,6 @@
 ﻿asgiref==3.3.4
 autopep8==1.5.7
-Django==3.9.0
+
 django-ckeditor==6.1.0
 django-js-asset==1.2.2
 djangorestframework==3.12.4
